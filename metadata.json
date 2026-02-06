@@ -1,0 +1,5 @@
+{
+  "name": "LuxeStay Hotel Reservations",
+  "description": "A premium hotel reservation system featuring room categorization, search functionality, booking management, and a simulated payment process.",
+  "requestFramePermissions": []
+}
